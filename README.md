@@ -9,14 +9,14 @@ The program simulates different types of fruit, with a shared interface and base
 ## Features
 
 - Implements a **`Fruit` interface** with two abstract methods: `calculateCalories()` and `changeRipeness()`
-- Defines a **`BaseFruit` parent class** with:
+- Defines a **`Fruit` parent class** with:
   - Shared fields: `name`, `weightInGrams`, and `isRipe`
   - Shared behavior and overrides
 - Includes **four child classes**:
   - `CitrusFruit` – adds `acidityLevel`
   - `BerryFruit` – adds `hasSeeds`
 - Demonstrates **method overriding** and **polymorphism**
-- Stores all objects in a `BaseFruit[]` array and iterates using polymorphic calls
+- Stores all objects in a `Fruit[]` array and iterates using polymorphic calls
 
 ## File Structure
 
