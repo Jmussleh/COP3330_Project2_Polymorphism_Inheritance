@@ -1,4 +1,4 @@
-# Fruit Inheritance & Polymorphism Project
+# Fruit Inheritance & Polymorphism Project: Jena Mussleh, COP3330C - 26824
 
 This Java project demonstrates the principles of **inheritance**, **polymorphism**, and **interfaces** using a fruit-themed class hierarchy.
 
