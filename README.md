@@ -6,7 +6,7 @@ This Java project demonstrates the principles of **inheritance**, **polymorphism
 
 The program simulates different types of fruit, with a shared interface and base class. Each fruit type (e.g., citrus, berry, tropical, stone) overrides behavior like calorie calculation and ripeness changes. An application class (`FruitApp`) creates instances of these fruits and performs actions on them.
 
-## 🔧 Features
+## Features
 
 - Implements a **`Fruit` interface** with two abstract methods: `calculateCalories()` and `changeRipeness()`
 - Defines a **`BaseFruit` parent class** with:
