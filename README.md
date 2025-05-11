@@ -19,3 +19,13 @@ The program simulates different types of fruit, with a shared interface and base
   - `StoneFruit` – adds `hasPit`
 - Demonstrates **method overriding** and **polymorphism**
 - Stores all objects in a `BaseFruit[]` array and iterates using polymorphic calls
+
+## File Structure
+
+- Fruit.java            - Interface defining shared methods
+- BaseFruit.java        - Abstract parent class
+- CitrusFruit.java      - Child class representing citrus fruits
+- BerryFruit.java       - Child class representing berries
+- TropicalFruit.java    - Child class representing tropical fruits
+- StoneFruit.java       - Child class representing stone fruits
+- FruitApp.java         - Application class with main method
